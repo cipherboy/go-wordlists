@@ -1,6 +1,6 @@
 # go-wordlist
     u: Alexander Scheel
-    e: <alexander.m.scheel>
+    e: <alexander.m.scheel@gmail.com>
     l: BSD: 2-clause
 
 
